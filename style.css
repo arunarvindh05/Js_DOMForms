@@ -1,0 +1,38 @@
+
+h1#title {
+  text-align: center;
+}
+p#description {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 500;
+
+}
+.table{
+  padding-top:30px;
+}
+
+form{
+  max-width: 500px;
+margin: auto;
+}
+h3{
+  text-align: center;
+}
+label{
+  font-weight: bold;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  border-left: 10px solid #fec500;
+  padding-left: 10px;
+  margin-bottom: 30px
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
